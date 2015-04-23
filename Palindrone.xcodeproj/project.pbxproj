@@ -416,6 +416,7 @@
 				C488A9E31AE6C8AD00BF641B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		C488A9E41AE6C8AD00BF641B /* Build configuration list for PBXNativeTarget "PalindroneTests" */ = {
 			isa = XCConfigurationList;
@@ -424,6 +425,7 @@
 				C488A9E61AE6C8AD00BF641B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
